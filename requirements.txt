@@ -1,0 +1,12 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+-f https://data.pyg.org/whl/torch-2.0.0+cu118.html
+
+numpy==1.24.3
+torch==2.0.0
+torch-geometric
+torch-scatter
+torch-sparse
+torch-cluster
+networkx
+scikit-learn
+jetnet
